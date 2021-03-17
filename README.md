@@ -1,5 +1,5 @@
 # Guess-My-Number-JavaScript
-My webpage written on JavaScript
+This is my first JavaScript project written with CSS, HTML and JavaScript.
 
 You will need to have all of the files downloaded into the same directory in order to run the script. In order to run the script you will open the index.html file which will run in your default web browser. 
 
